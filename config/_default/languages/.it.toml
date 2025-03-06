@@ -132,15 +132,3 @@ Guardate cosa è in grado di fare questo tema nella pagina delle caratteristiche
   name = "Home"
   pageRef = "/"
   weight = 1
-  [[menus.main]]
-  name = "caratteristiche"
-  pageRef = "pages/services"
-  weight = 2
-  [[menus.main]]
-  name = "Uffici"
-  pageRef = "pages/office"
-  weight = 3
-  [[menus.main]]
-  name = "Contatti"
-  pageRef = "pages/contacts"
-  weight = 4
